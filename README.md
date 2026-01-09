@@ -31,7 +31,7 @@ To view the project locally, follow these steps:
 
 **1.** Clone the repository:
 
-```git clone https://github.com/debjitdey1/My_PortFolio```
+```git clone [https://github.com/debjitdey1/My_PortFolio]```
 
 
 **2.** Navigate into the project folder:
@@ -57,7 +57,7 @@ Project Showcase:<img width="1457" height="678" alt="Screenshot 2026-01-09 at 10
 
 # Live Demo
 
-You can view the live demo of the portfolio website at **[https://my-port-folio-inky-five.vercel.app/#contact]**
+You can view the live demo of the portfolio website at **[https://my-port-folio-inky-five.vercel.app]**
 
 # Contact
 
